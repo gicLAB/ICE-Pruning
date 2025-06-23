@@ -2,7 +2,7 @@
 
 The offical implmentations of the experiments of paper: <em><strong>ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks</em></strong>
 
-The code that are used/modified for this paper are from:
+The code that are used/modified in this repo for this paper are from:
 
 https://github.com/jdg105/linearly-replaceable-filter-pruning<br>
 https://github.com/pytorch/vision/tree/main/torchvision/models<br>
