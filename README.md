@@ -9,6 +9,13 @@ https://github.com/pytorch/vision/tree/main/torchvision/models<br>
 https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main<br>
 https://github.com/tyui592/Pruning_filters_for_efficient_convnets/tree/master
 
+The folders in this repo and experiments in the paper are one-to-one correspondence:
+
+freezing_motivation/smaller_scale -- experiments in Section IV.B<br>
+compare_pruning_criteria -- experiments in Section IV.C<br>
+ablation_study -- experiments in Section IV.D<br>
+SOTAs -- experiments in Section IV.E<br>
+
 ## Notes
 We fixed the bug for multi-objective optimization in https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main
 
