@@ -4,18 +4,20 @@ The offical implmentations of the experiments of paper: <em><strong>ICE-Pruning:
 
 The code that are used/modified in this repo for this paper are from:
 
-https://github.com/jdg105/linearly-replaceable-filter-pruning<br>
-https://github.com/kuangliu/pytorch-cifar<br>
-https://github.com/pytorch/vision/tree/main/torchvision/models<br>
-https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main<br>
-https://github.com/tyui592/Pruning_filters_for_efficient_convnets/tree/master
+https://github.com/jdg105/linearly-replaceable-filter-pruning for the ResNet-152 model<br>
+https://github.com/kuangliu/pytorch-cifar for the MobileNetV2 model<br>
+https://github.com/pytorch/vision/tree/main/torchvision/models for the other models in this research<br>
+https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main for AAP<br>
+https://github.com/tyui592/Pruning_filters_for_efficient_convnets/tree/master for the L1 norm filter pruning and other pruning underlying code
 
 The folders in this repo and experiments in the paper are one-to-one correspondence:
 
-freezing_motivation/smaller_scale -- experiments in Section IV.B<br>
-compare_pruning_criteria -- experiments in Section IV.C<br>
-ablation_study -- experiments in Section IV.D<br>
-SOTAs -- experiments in Section IV.E<br>
+|Folder|Experiments|
+|------|-----------|
+|freezing_motivation/smaller_scale|experiments in Section IV.B|<br>
+|compare_pruning_criteria|experiments in Section IV.C|<br>
+|ablation_study|experiments in Section IV.D|<br>
+|SOTAs|experiments in Section IV.E|<br>
 
 ## Notes
 We fixed the bug for multi-objective optimization in https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main
