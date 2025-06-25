@@ -27,10 +27,7 @@ We fixed the bug for multi-objective optimization in https://github.com/kaiqi123
       title={ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks}, 
       author={Wenhao Hu and Paul Henderson and José Cano},
       year={2025},
-      eprint={2505.07411},
       archivePrefix={arXiv},
-      primaryClass={cs.LG},
-      url={https://arxiv.org/abs/2505.07411}, 
 }
 ```
 
