@@ -16,14 +16,14 @@ The folders in this repo and experiments in the paper are one-to-one corresponde
 
 |Folder|Experiments|
 |------|-----------|
-|freezing_motivation/smaller_scale|experiments in Section IV.B|<br>
-|compare_pruning_criteria|experiments in Section IV.C|<br>
-|ablation_study|experiments in Section IV.D|<br>
-|SOTAs|experiments in Section IV.E|<br>
+|freezing_motivation/smaller_scale|experiments in Section IV.B|
+|compare_pruning_criteria|experiments in Section IV.C|
+|ablation_study|experiments in Section IV.D|
+|SOTAs|experiments in Section IV.E|
 
 ## Notes
-We fixed the bug for multi-objective optimization in https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main
-
+1.We fixed the bug for multi-objective optimization in https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main<br>
+2.The folders or files that have names as *_im means it's for ImageNet related experiments.
 ## Citation
 
 ```
