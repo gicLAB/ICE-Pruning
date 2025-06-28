@@ -1,6 +1,6 @@
 # ICE-Pruning
 
-The offical implmentations of the experiments of paper: **"[ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks](https://arxiv.org/abs/2505.07411)**
+The offical implmentations of the experiments of paper: **"[ICE-Pruning: An Iterative Cost-Efficient Pruning Pipeline for Deep Neural Networks](https://arxiv.org/abs/2505.07411)"**
 
 The following table shows the links to the code that are used/modified in this repo for the paper:
 
