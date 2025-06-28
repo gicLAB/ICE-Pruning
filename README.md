@@ -23,7 +23,7 @@ The folders in this repo and experiments in the paper are one-to-one corresponde
 
 ## Notes
 1.We fixed the bug for multi-objective optimization in https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main<br>
-2.The folders or files that have names as *_im means it's for ImageNet related experiments.
+2.The folders or files that have names as *_im are for ImageNet related experiments.
 ## Citation
 
 ```
