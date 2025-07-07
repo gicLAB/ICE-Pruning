@@ -1,5 +1,5 @@
-numpy==1.26.0 #(1.26.4 for imagenet experiment)
-torch==2.0.1 #(2.3.0 for imagenet experiment)
-torchvision==0.15.2 #(0.18.0 for imagenet experiment)
+numpy==1.26.0 #(1.26.4 for imagenet experiments)
+torch==2.0.1 #(2.3.0 for imagenet experiments)
+torchvision==0.15.2 #(0.18.0 for imagenet experiments)
 thop==0.1.1.post2209072238
 optuna==3.6.1
