@@ -23,7 +23,7 @@ The folders in this repo and experiments in the paper are one-to-one corresponde
 
 ## Running
 1. Install the requirement.txt.
-3. **All the \*.sh in the folders are the scripts for running the corresponding experiments. Simply run ./\*.sh**
+3. All the \*.sh in the folders are the scripts for running the corresponding experiments. Simply run ./\*.sh for each expriment you want to run.
 
 ## Notes
 1. We fixed the bug for multi-objective optimization in https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main<br>
