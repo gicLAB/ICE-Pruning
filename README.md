@@ -21,12 +21,14 @@ The folders in this repo and experiments in the paper are one-to-one corresponde
 |ablation_study|experiments in Section IV.D|
 |SOTAs|experiments in Section IV.E|
 
-**All the \*.sh in the folders are the scripts for ruuning the corresponding experiments. Simply run ./\*.sh**
+## Running
+1. Install the requirement.txt.
+3. **All the \*.sh in the folders are the scripts for running the corresponding experiments. Simply run ./\*.sh**
 
 ## Notes
-1.We fixed the bug for multi-objective optimization in https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main<br>
-2.The folders or files that have names as *_im are for ImageNet related experiments, and the folders or files that have names as * dense * are for DenseNet related experiments.<br>
-3.The SOTA/ICE folder does not contain the code of ICE_Pruning for ResNet-152 since this experiment already exist in the compare_pruning_criteria folder.
+1. We fixed the bug for multi-objective optimization in https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main<br>
+2. The folders or files that have names as *_im are for ImageNet related experiments, and the folders or files that have names as * dense * are for DenseNet related experiments.<br>
+3. The SOTA/ICE folder does not contain the code of ICE_Pruning for ResNet-152 since this experiment already exist in the compare_pruning_criteria folder.
 ## Citation
 
 ```
