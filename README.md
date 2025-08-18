@@ -21,7 +21,7 @@ The folders in this repo and experiments in the paper are one-to-one corresponde
 |ablation_study|experiments in Section IV.D|
 |SOTAs|experiments in Section IV.E|
 
-All the *.sh in the folders are the scripts for ruuning the corresponding experiments. Simply run ./*sh.
+All the *.sh in the folders are the scripts for ruuning the corresponding experiments. Simply run ./*.sh
 
 ## Notes
 1.We fixed the bug for multi-objective optimization in https://github.com/kaiqi123/Automatic-Attention-Pruning/tree/main<br>
